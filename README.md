@@ -1,3 +1,6 @@
 # dinamo
 OKJ vizsgafeladat
-##  A csapat tagjai : Én Én Én
+##  A csapat tagjai : 
+-Diák1
+-Diák2
+-Diák3
